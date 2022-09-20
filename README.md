@@ -12,6 +12,7 @@ Large-scale vision-language pre-training has achieved promising results on down-
 
 ## Updates
 **20220920** PyramidCLIP models pretrained on 15M image-text pairs are released.
+
 **20220915** PyramidCLIP is accepted by NeurIPS2022.
 
 ## PyramidCLIP Model-Zoo
