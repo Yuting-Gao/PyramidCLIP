@@ -11,6 +11,8 @@ Large-scale vision-language pre-training has achieved promising results on down-
 ![image](./PyramidCLIP-figure.jpg)
 
 ## Updates
+**200221025** PyramidCLIP is designated as Oral by NeurIPS2022.
+
 **20220920** PyramidCLIP models pretrained on 15M image-text pairs are released.
 
 **20220915** PyramidCLIP is accepted by NeurIPS2022.
