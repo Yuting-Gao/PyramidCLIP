@@ -11,7 +11,9 @@ Large-scale vision-language pre-training has achieved promising results on down-
 ![image](./PyramidCLIP-figure.jpg)
 
 ## Updates
-**200221025** PyramidCLIP is designated as Oral by NeurIPS2022.
+**20221115** PyramidCLIP models pretrained on 143M image-text pairs are released.
+
+**20221025** PyramidCLIP is designated as Oral by NeurIPS2022.
 
 **20220920** PyramidCLIP models pretrained on 15M image-text pairs are released.
 
@@ -37,7 +39,7 @@ Large-scale vision-language pre-training has achieved promising results on down-
 <td align="center">ResNet50</td>
 <td align="center">32</td>
 <td align="center">61.4</td>
-<td align="center"><a href="">GoogleDriver</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1vUFJaBA6TY4RUBwfjYAg45kpI-SloovL/view?usp=sharing">GoogleDriver</a></td>
 </tr>
 
  
@@ -47,7 +49,7 @@ Large-scale vision-language pre-training has achieved promising results on down-
 <td align="center">ViT-B32</td>
 <td align="center">32</td>
 <td align="center">62.5</td>
-<td align="center"><a href="">GoogleDriver</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1rBI1_5ghNAUmIq1Q20jjHEnmoj-0R1f9/view?usp=sharing">GoogleDriver</a></td>
 </tr>
 
 <tr>
@@ -56,7 +58,7 @@ Large-scale vision-language pre-training has achieved promising results on down-
 <td align="center">ViT-B16</td>
 <td align="center">32</td>
 <td align="center">66.9</td>
-<td align="center"><a href="">GoogleDriver</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1nDt_FY04WpwRf7aN3tYzEIUTY0GSGILw/view?usp=sharing">GoogleDriver</a></td>
 </tr>
  
  
